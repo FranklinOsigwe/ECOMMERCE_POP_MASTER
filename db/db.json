@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id": 5,
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "isAdmin": true,
+      "password": "adminPass1234"
+    }
+  ],
+  "orders": []
+}
